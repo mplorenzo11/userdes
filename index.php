@@ -121,9 +121,8 @@
 								<div class='intro-text' >
 									
 									<h1>I am Melo John Lorenzo</h1>
-									<p> Hi po </p>
+									<p>MI - 181 / Mobile Internet</p>
 									<div class='intro-btns' >
-
 									</div>
 									
 								</div>
@@ -289,7 +288,7 @@
 							
 							
 							<div class='section-header' >
-								<h2>My <strong class='color' >Reflections</strong></h2>
+								<h2>My <strong class='color'>Reflections</strong></h2>
 							</div>
 							
 							<div class='about-text' >
