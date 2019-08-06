@@ -267,6 +267,20 @@
 											<li>	As per the APC Handbook 2019, students are only allowed to have limited absences. Attendance can affect student’s grade and might fail them. </li>
 												</ul>
 										</p>
+											<br>
+											<h3 class="color"> 5th Activity </h3>
+												
+											<img src="Capture.png">
+											<img src="Capture1.png">
+											<img src="Capture2.png">
+											<img src="Capture3.png"> 
+											<img src="Capture4.png"> 
+											<img src="Capture5.png">
+											
+											<br>
+											<h3 class="color"> Q1 Activity </h3>
+											<img src="r.png">
+										
 										</p>	
 							
 								</div>
