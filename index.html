@@ -270,16 +270,16 @@
 											<br>
 											<h3 class="color"> 5th Activity </h3>
 												
-											<img src="Capture.png">
-											<img src="Capture1.png">
-											<img src="Capture2.png">
-											<img src="Capture3.png"> 
-											<img src="Capture4.png"> 
-											<img src="Capture5.png">
+											<img src="Capture.PNG">
+											<img src="Capture1.PNG">
+											<img src="Capture2.PNG">
+											<img src="Capture3.PNG"> 
+											<img src="Capture4.PNG"> 
+											<img src="Capture5.PNG">
 											
 											<br>
 											<h3 class="color"> Q1 Activity </h3>
-											<img src="r.png">
+											<img src="r.PNG">
 										
 										</p>	
 							
